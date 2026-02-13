@@ -1,0 +1,25 @@
+# Compiled source #
+*.com
+*.out
+
+# Object files #
+*.o
+*.obj
+
+# Libraries #
+*.lib
+*.a
+
+# Executables #
+*.exe
+*.out
+
+# Temporary files #
+*.tmp
+*.temp
+
+# Logs #
+*.log
+
+# Ignore environment settings
+.env
